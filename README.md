@@ -1,3 +1,0 @@
-# Demo-repo
-
-Basically, this is me learning how to properly use Git and Github.
